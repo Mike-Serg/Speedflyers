@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TermsConditions">
+        \n<b>Terms and Conditions</b>\n\n
+        By signing up, you agree to all the below terms of service.
+        You understand that this website is purely for
+        entertainment purposes. None of the information or data
+        on this website is to be considered accurate or to be used
+        for determining whether to Speedfly or otherwise at a site.
+        None of the information is meant to assist users in Speedflying.\n\n
+        <b>1. Accuracy</b>\n\n
+        <![CDATA[Content on this website is user-generated and while we
+        make best efforts to ensure accuracy of information it is
+        not guaranteed. You should not rely on this information and
+        make perform your own checks of it\'s accuracy.]]>\n\n
+        <b>2. Good Citizen Policy</b>\n\n
+        By signing up you agree to represent the community to the
+        best of your ability. Those who take actions that are
+        detrimental to the community will have their accounts
+        revoked.\n\n
+        <b>3. Real Name Policy</b>\n\n
+        Information here is submitted by and for a specific
+        community. Users are required to user their real name. Not
+        using a real name will result in being banned. The goal is
+        for people to submit high quality information that we can
+        verify. Part of our verification process is verifying who is
+        submitting information. We cannot do this without a real
+        name.\n\n
+        <b>4. Content Submissions</b>\n\n
+        You grant a perpetual, unlimited, non-exclusive license to
+        use content you submit to Speedflyers and in so doing
+        attest that you are the rightful content owner. This is similar
+        to the licensing language used by comparable websites on....\n
+    </string>
+</resources>

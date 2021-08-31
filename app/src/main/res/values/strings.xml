@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Speedflyers</string>
+
+<!--fragment_login and fragment_registration-->
+    <string name="LoginHeaderText">Get started now</string>
+    <string name="LoginText">
+        Register for a free speedflyers account to get full spot details and comments,
+        contribute your own spot, store your favourites and more
+    </string>
+    <string name="hintLogin">User name</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintFirstName">First name</string>
+    <string name="hintLastName">Last name</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintConfirmPassword">Confirm password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonRegistration">Registration</string>
+    <string name="buttonTermsConditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="accept">Accept</string>
+
+<!--fragment_tutorial-->
+    <string name="buttonSkip">Skip</string>
+    <string name="logoImage">LogoImage</string>
+    <string name="tutorialLogo">
+        <b>Welcome to Speedflyers</b>\n\n
+        Community Site Guide, School/Organisation Directory and anything else we want it to be.
+    </string>
+    <string name="tutorialSpeedflyingSites">
+        <b>Speedflying Sites</b>\n\nComprehensive community directory of speedflying sites.
+    </string>
+    <string name="tutorialLaunchCondition">
+        <b>Launch Conditions</b>\n\nIdeal conditions for sites, from wind directions to hazards to be avoided.
+    </string>
+    <string name="tutorialLinesLandings">
+        <b>Lines &amp; Landing</b>\n\nLine descriptions, landing area details and photos &amp; videos
+    </string>
+
+
+
+</resources>

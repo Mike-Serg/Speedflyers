@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Speedflyers</string>
+
+<!--fragments login and registration-->
+    <string name="LoginHeaderText">Начните прямо сейчас</string>
+    <string name="LoginText">
+        Зарегистрируйтесь для получения бесплатной учетной записи на Speedflyers.org,
+        чтобы получать полную информацию о локациях,
+        добавлять собственные и многое другое.
+    </string>
+    <string name="hintLogin">Имя пользователя</string>
+    <string name="hintPassword">Пароль</string>
+    <string name="hintFirstName">Имя</string>
+    <string name="hintLastName">Фамилия</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintConfirmPassword">Пароль повторно</string>
+    <string name="buttonLogin">Вход</string>
+    <string name="buttonRegistration">Регистрация</string>
+    <string name="buttonTermsConditions">Условия и положения</string>
+    <string name="accept">Принять</string>
+
+<!--fragment_tutorial-->
+    <string name="buttonSkip">Пропустить</string>
+    <string name="logoImage">LogoImage</string>
+    <string name="tutorialLogo">
+        <b>Добро пожаловать</b>\n\nОписание локаций, каталог\nшкол и многое другое.
+    </string>
+    <string name="tutorialSpeedflyingSites">
+        <b>Speedfly локации</b>\n\nКаталог локаций для speedfly полетов.
+    </string>
+    <string name="tutorialLaunchCondition">
+        <b>Условия старта</b>\n\nОписания условий для старта, от направления ветра до опасностей, которых следует избегать.
+    </string>
+    <string name="tutorialLinesLandings">
+        <b>Полет и приземление</b>\n\nОписание линии слета, детали площадки приземления, фото и видео.
+    </string>
+
+</resources>
