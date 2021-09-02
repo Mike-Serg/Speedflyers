@@ -39,6 +39,7 @@ public class TutorialFragment extends Fragment {
 
         View view = inflater.inflate(R.layout.fragment_tutorial, container, false);
 
+        //TODO: Подумать как отображать страницы туториала без создания фрагментов для каждой страницы.
         //Отрисовка фрагментов внутри ViewPager2
         ViewPager2 pager = view.findViewById(R.id.tutorial_pager);
         FragmentStateAdapter pageAdapter = new TutorialAdapter(this);
